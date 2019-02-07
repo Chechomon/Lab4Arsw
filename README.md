@@ -4,7 +4,7 @@ Nombre:
 * Sergio Alejandro Peña Pinto
 
 ## *Part I.*
-1.
+1. The class respnsable of that consumption is StartProduction.
 
 ![](Imagenes/1.png)
 
