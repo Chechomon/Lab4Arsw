@@ -36,7 +36,7 @@ public class Producer extends Thread {
                 System.out.println("Producer added " + dataSeed);
 
                 queue.add(dataSeed);
-                //StartProduction.notifyConsumer();
+                StartProduction.notifyConsumer();
             } else {
                 synchronized (this) {
                     try {
