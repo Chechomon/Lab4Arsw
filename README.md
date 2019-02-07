@@ -6,12 +6,12 @@ Nombre:
 ## *Part I.*
 1.
 
-![](Imagenes/1.PNG)
+![](Imagenes/1.png)
 
 2. 
 
-![](Imagenes/2.PNG)
+![](Imagenes/2.png)
 
 3.
 
-![](Imagenes/3.PNG)
+![](Imagenes/3.png)
