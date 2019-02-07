@@ -22,7 +22,7 @@ public class StartProduction {
     
     public static void main(String[] args) {
         
-         p = new Producer(queue, 10);
+        p = new Producer(queue, 10);
         p.start();
 
         //let the producer create products for 5 seconds (stock).
