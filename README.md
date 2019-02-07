@@ -10,8 +10,8 @@ Nombre:
 
 2. 
 
-![](Imagenes/2.PNG)
+![](Imagenes/2.png)
 
 3.
 
-![](Imagenes/3.PNG)
+![](Imagenes/3.png)
