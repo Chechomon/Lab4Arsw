@@ -6,7 +6,7 @@ Nombre:
 ## *Part I.*
 1. The class respnsable of that consumption is StartProduction.
 
-![](Imagenes/1.png)
+![](Imagenes/111.PNG)
 
 2. 
 
