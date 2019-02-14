@@ -22,7 +22,7 @@ The consumer process, since it is consulting the size of the queue repeatedly, w
 
 The same class from the previous laboratory was put in because, as it had been implemented, it meets the needs of the current one.
 
-![](Imagenes/4.png)
+![](Imagenes/4.PNG)
 
 ## *Part III.*
 
@@ -32,4 +32,4 @@ The same class from the previous laboratory was put in because, as it had been i
 * The critical region is presented at the moment when the immortal fight (fight method) because as the life of the attacker and the attacker is changed, it may be the case where more than one thread is changing these values in the same moment of time.
 * Implementation pause, resume and stop:
 
-![](Imagenes/5.png)
+![](Imagenes/5.PNG)
